@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 9fd615b7236fc424aa6a2db9177861a3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DarkBlueTree_mergedObject
+    100002: DarkGreenTree_mergedObject
+    100004: LightBlueTree_mergedObject
+    100006: LightGreenTree_mergedObject
+    100008: PinkTree_mergedObject
+    100010: Plane
+    100012: PurpleTree_mergedObject
+    100014: RedTree_mergedObject
+    100016: //RootNode
+    100018: YellowTree_mergedObject
+    400000: DarkBlueTree_mergedObject
+    400002: DarkGreenTree_mergedObject
+    400004: LightBlueTree_mergedObject
+    400006: LightGreenTree_mergedObject
+    400008: PinkTree_mergedObject
+    400010: Plane
+    400012: PurpleTree_mergedObject
+    400014: RedTree_mergedObject
+    400016: //RootNode
+    400018: YellowTree_mergedObject
+    2100000: unnamed
+    2100002: TrunkLightBlueTree__LightBlueTree
+    2100004: TreeLightBlue__LightBlueTree
+    2100006: TrunkBlueTree__DarkBlueTree
+    2100008: TreeDarkBlue__DarkBlueTree
+    2100010: TrunkTreePink__PinkTree
+    2100012: TreePink__PinkTree
+    2100014: TrunkPurpleTree__PurpleTree
+    2100016: TreePurple__PurpleTree
+    2100018: TrunkYellowTree__YellowTree
+    2100020: TreeAutumn__YellowTree
+    2100022: TrunkRedTree__RedTree
+    2100024: TreeRed__RedTree
+    2100026: TrunkLightGreenTree__LightGreenTree
+    2100028: TreeLightGreen__LightGreenTree
+    2100030: TrunkOldGreenTree__DarkGreenTree
+    2100032: TreeDarkGreen__DarkGreenTree
+    2300000: DarkBlueTree_mergedObject
+    2300002: DarkGreenTree_mergedObject
+    2300004: LightBlueTree_mergedObject
+    2300006: LightGreenTree_mergedObject
+    2300008: PinkTree_mergedObject
+    2300010: Plane
+    2300012: PurpleTree_mergedObject
+    2300014: RedTree_mergedObject
+    2300016: YellowTree_mergedObject
+    3300000: DarkBlueTree_mergedObject
+    3300002: DarkGreenTree_mergedObject
+    3300004: LightBlueTree_mergedObject
+    3300006: LightGreenTree_mergedObject
+    3300008: PinkTree_mergedObject
+    3300010: Plane
+    3300012: PurpleTree_mergedObject
+    3300014: RedTree_mergedObject
+    3300016: YellowTree_mergedObject
+    4300000: Plane
+    4300002: LightBlueTree_mergedObject
+    4300004: DarkBlueTree_mergedObject
+    4300006: PinkTree_mergedObject
+    4300008: PurpleTree_mergedObject
+    4300010: YellowTree_mergedObject
+    4300012: RedTree_mergedObject
+    4300014: LightGreenTree_mergedObject
+    4300016: DarkGreenTree_mergedObject
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
